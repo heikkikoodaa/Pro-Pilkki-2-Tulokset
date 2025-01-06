@@ -1,0 +1,21 @@
+.navbar {
+  background-color: #333;
+  padding: 1rem;
+  color: white;
+  margin-bottom: 2rem;
+}
+
+.navbar-content {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.navbar-title:hover {
+  cursor: pointer;
+}
+
+.navbar h1 {
+  margin: 0;
+  font-size: 1.5rem;
+}
